@@ -50,15 +50,15 @@ All wallpapers are by [Annie Spratt](https://www.instagram.com/anniespratt)
 - Weather on Panel: [Weather or Not](https://gitlab.gnome.org/somepaulo/weather-or-not) by [Paulo Fino](https://gitlab.gnome.org/somepaulo)
 
 ## 🖼️ Gallery
-<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/Screenshot1.png">
-<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/Screenshot2.png">
-<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/Screenshot3.png">
-<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/Screenshot4.png">
-<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/Screenshot5.png">
-<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/Screenshot6.png">
-<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/Bootloader.png">
-<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/Lockscreen1.png">
-<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/Lockscreen2.png">
+<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/Screenshots/Screenshot1.png">
+<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/Screenshots/Screenshot2.png">
+<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/Screenshots/Screenshot3.png">
+<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/Screenshots/Screenshot4.png">
+<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/Screenshots/Screenshot5.png">
+<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/Screenshots/Screenshot6.png">
+<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/Screenshots/Bootloader.png">
+<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/Screenshots/Lockscreen1.png">
+<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/Screenshots/Lockscreen2.png">
 
 # 🛠️ Instructions
 
