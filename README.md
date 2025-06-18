@@ -50,12 +50,13 @@ All wallpapers are by [Annie Spratt](https://www.instagram.com/anniespratt)
 - Weather on Panel: [Weather or Not](https://gitlab.gnome.org/somepaulo/weather-or-not) by [Paulo Fino](https://gitlab.gnome.org/somepaulo)
 
 ## 🖼️ Gallery
-<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/screenshot1.png">
-<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/screenshot2.png">
-<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/screenshot3.png">
-<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/screenshot4.png">
-<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/screenshot5.png">
-<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/screenshot6.png">
+<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/Screenshot1.png">
+<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/Screenshot2.png">
+<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/Screenshot3.png">
+<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/Screenshot4.png">
+<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/Screenshot5.png">
+<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/Screenshot6.png">
+<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/Bootloader.png">
 
 # 🛠️ Instructions
 

@@ -1897,6 +1897,12 @@ StScrollBar StButton#vhandle:active, StScrollBar StButton#hhandle:active {
   spacing: 4px;
 }
 
+#panel .messages-indicator {
+  width: 16px;
+  height: 16px;
+  margin-right: 16px;
+  margin-left: 16px;
+}
 .quick-toggle.button {
   padding: 0;
 }
