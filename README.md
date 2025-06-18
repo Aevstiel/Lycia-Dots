@@ -57,6 +57,8 @@ All wallpapers are by [Annie Spratt](https://www.instagram.com/anniespratt)
 <img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/Screenshot5.png">
 <img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/Screenshot6.png">
 <img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/Bootloader.png">
+<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/Lockscreen1.png">
+<img width=800 src="https://github.com/Aevstiel/Lycia-Dots/blob/main/git/assets/Lockscreen2.png">
 
 # 🛠️ Instructions
 
